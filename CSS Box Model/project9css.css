@@ -2,4 +2,9 @@ body{
      background-color:#9c9f84;
      margin:0px;
      font-family:Verdana,Georgia, serif;
-     font-size:
+}
+div{
+     width:400px;
+     height:100px;
+     background:#f4ee42;
+}
